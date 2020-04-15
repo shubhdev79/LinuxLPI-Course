@@ -31,4 +31,16 @@ Linux in the Cloud
 
 (IMAGE)
 
+# ------------------------------------------------------------
+
+**LAB - Some Commands**
+- whoami (show username)
+- pwd
+- ls
+- last (show listing of last logged in users)
+- uptime 
+
+# ------------------------------------------------------------
+
+
 
