@@ -11,8 +11,8 @@
 - OpenSUSE
 
 <ins>**Components**</ins>
-(IMAGE URL)
 
+ **![alt text](https://github.com/shubhdev79/LinuxCommands/blob/master/1.1.png)**
 
 - Checking the Version - **lsb_release -a**
 - Checking the Kernel - **uname -r**
@@ -24,12 +24,12 @@
 - Android
 - Raspberry Pi
 
-(IMAGE URL)
+**![alt text](https://github.com/shubhdev79/LinuxCommands/blob/master/1.1.2.png)**
 
 **1.1.3**
 <ins> Linux in the Cloud </ins>
 
-(IMAGE)
+**![alt text](https://github.com/shubhdev79/LinuxCommands/blob/master/1.1.3.png)**
 
 # ------------------------------------------------------------
 
