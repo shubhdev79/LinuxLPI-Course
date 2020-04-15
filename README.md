@@ -12,12 +12,13 @@
 
 <ins>**Components**</ins>
 
- **![alt text](https://github.com/shubhdev79/LinuxCommands/blob/master/1.1.png)**
+ **![alt text](https://github.com/shubhdev79/LinuxCommands/blob/master/Linux_Distro.png)**
 
 - Checking the Version - **lsb_release -a**
 - Checking the Kernel - **uname -r**
 - Checking the GNU Core - **ls --version**
 - Checking the X-Server Version - **sudo X -version**
+# ------------------------------------------------------------
 
 **1.1.2**
 <ins> Linux Embeded Systems </ins>
@@ -25,6 +26,8 @@
 - Raspberry Pi
 
 **![alt text](https://github.com/shubhdev79/LinuxCommands/blob/master/1.1.2.png)**
+
+# ------------------------------------------------------------
 
 **1.1.3**
 <ins> Linux in the Cloud </ins>
