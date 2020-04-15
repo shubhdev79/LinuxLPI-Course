@@ -18,7 +18,6 @@
 - Checking the Kernel - **uname -r**
 - Checking the GNU Core - **ls --version**
 - Checking the X-Server Version - **sudo X -version**
-# ---------------------------------------------------------
 
 **1.1.2**
 Linux Embeded Systems
@@ -27,12 +26,9 @@ Linux Embeded Systems
 
 (IMAGE URL)
 
-# ---------------------------------------------------------
-
 **1.1.3**
 Linux in the Cloud
 
 (IMAGE)
 
-# ---------------------------------------------------------
 
