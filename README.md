@@ -2,7 +2,7 @@
 
 # 1.1. Linux Distributions
 
-**1.1.1** 
+<ins>**1.1.1**</ins> 
 - RHEL
 - CentOs
 - Ubuntu
@@ -10,7 +10,7 @@
 - Debian
 - OpenSUSE
 
-**Components**
+<ins>**Components**</ins>
 (IMAGE URL)
 
 
@@ -20,20 +20,20 @@
 - Checking the X-Server Version - **sudo X -version**
 
 **1.1.2**
-Linux Embeded Systems
+<ins> Linux Embeded Systems </ins>
 - Android
 - Raspberry Pi
 
 (IMAGE URL)
 
 **1.1.3**
-Linux in the Cloud
+<ins> Linux in the Cloud </ins>
 
 (IMAGE)
 
 # ------------------------------------------------------------
 
-**LAB - Some Commands**
+<ins>**LAB - Some Commands**</ins>
 - whoami (show username)
 - pwd
 - ls
