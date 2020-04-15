@@ -12,7 +12,7 @@
 
 <ins>**Components**</ins>
 
- **![alt text](https://github.com/shubhdev79/LinuxCommands/blob/master/Linux_Distro.png)**
+**![alt text](https://github.com/shubhdev79/LinuxCommands/blob/master/Components.png)**
 
 - Checking the Version - **lsb_release -a**
 - Checking the Kernel - **uname -r**
