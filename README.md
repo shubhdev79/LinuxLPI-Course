@@ -45,5 +45,10 @@
 
 # ------------------------------------------------------------
 
+**1.2 Major Open Source Applications**
 
+- 1.2.1 - Desktop Applications - Libre office, GIMP, FireFox, Mail Client- ThunderBird etc.
+- 1.2.2 - Server Applications 
+
+**![alt text](https://github.com/shubhdev79/LinuxCommands/blob/master/1.2.2.png)**
 
