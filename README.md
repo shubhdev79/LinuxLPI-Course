@@ -57,13 +57,21 @@
 # Package Management
 **Debian Based- Ubuntu**
 - .deb files
+- (Installing the Deb Package- sudo dpkg -i htop_2.0.2-1_amd64.deb)
+**HTOP** - This utility shows us system load and running processes
+- Remove Package - sudo dpkg --remove htop
 - apt-get
 
 **RPM Based - Fedora, CentOS, OpenSuse**
 - .rpm files
-- (Installing the Package - sudo rpm -i htop-2.2.0-3.el7.x86_64.rpm)
-- Package is already present in /home/directory
+- (Installing the RPM Package - sudo rpm -i htop-2.2.0-3.el7.x86_64.rpm)
+- Package is already present in /home/directory.
+- Remove Package - sudo rpm --e htop
 - yum 
+
+**Compiling from Source**
+
+**![alt text](https://github.com/shubhdev79/LinuxLPI-Course/blob/master/PackageInstall.png)**
 
 # ------------------------------------------------------------
 
