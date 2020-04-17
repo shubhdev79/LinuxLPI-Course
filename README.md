@@ -61,6 +61,8 @@
 
 **RPM Based - Fedora, CentOS, OpenSuse**
 - .rpm files
+- (Installing the Package - sudo rpm -i htop-2.2.0-3.el7.x86_64.rpm)
+- Package is already present in /home/directory
 - yum 
 
 # ------------------------------------------------------------
