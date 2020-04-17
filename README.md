@@ -52,3 +52,16 @@
 
 **![alt text](https://github.com/shubhdev79/LinuxCommands/blob/master/1.2.2.png)**
 
+# ------------------------------------------------------------
+
+# Package Management
+**Debian Based- Ubuntu**
+- .deb files
+- apt-get
+
+**RPM Based - Fedora, CentOS, OpenSuse**
+- .rpm files
+- yum 
+
+# ------------------------------------------------------------
+
